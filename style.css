@@ -1,5 +1,5 @@
 html {
-	background-image:url(http://webdesignledger.com/wp-content/uploads/2009/09/pattern_places_8.jpg);
+	background-image:url(http://www.unsigneddesign.com/Seamless_background_textures/1200px/seamlesstexture14_1200.jpg);
 }
 body {
 	color:#fff;
@@ -7,8 +7,9 @@ body {
 	font-family:Courier;
 	width:960px;
 	margin:auto;
-	border: 100px;
-	border-width: 50px;
+	border: 1000px;
+	border-width: 500px;
+	border-color: #EFE9E9;
 }
 
 
