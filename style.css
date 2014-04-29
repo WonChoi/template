@@ -10,6 +10,7 @@ body {
 	border: 1000px;
 	border-width: 500px;
 	border-color: #EFE9E9;
+	
 }
 
 
@@ -21,7 +22,7 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#EFE9E9;
+	color:#f6a7bb;
 }
 
 a, a:visited {
@@ -30,7 +31,7 @@ a, a:visited {
 }
 
 a:hover {
-	color: #77ccee;
+	color: #f6a7bb;
 	text-decoration: none;
 }
 
